@@ -1,4 +1,4 @@
-package devops1;
+package devops;
 
 import static org.junit.Assert.assertTrue;
 

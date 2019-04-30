@@ -1,4 +1,4 @@
-package devops1;
+package devops;
 
 /**
  * Hello world!
